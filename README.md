@@ -9,7 +9,7 @@ Full-Stack web app for users to be able to sign up/log in to the users account. 
 
 ***IN-PROGRESS***
 
-![alt-text](https://github.com/TimTran-Dev/Final-Project/blob/master/Rate%20my%20school%20image.png)
+![alt-text](https://github.com/TimTran-Dev/FINAL-PROJECT-V2/blob/master/Screen%20Shot%202019-12-06%20at%2011.53.09%20AM.png)
 
 ### How it's Made:
 
